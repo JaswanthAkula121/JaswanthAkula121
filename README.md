@@ -31,7 +31,7 @@ Full Stack Developer | Open Source Contributor | C++ Enthusiast
 
 <td width="50%" align="center">
 
-<img src="https://media.tenor.com/0lWj9aqE1SMAAAAC/ronaldo.gif" width="250"/>
+<img src="tenor.gif" width="250"/>
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ Full Stack Developer | Open Source Contributor | C++ Enthusiast
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JaswanthAkula121&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaswanthAkula121&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaswanthAkula121&theme=tokyonight" />
 </p>
 
@@ -128,11 +128,21 @@ Full Stack Developer | Open Source Contributor | C++ Enthusiast
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏅 Achievements & Badges 🏅</h2>
+
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaswanthAkula121&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/GSSoC-Contributor-success?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge" />
 </p>
+
+<br>
+
+<p align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/> </p>
 
 ---
 
